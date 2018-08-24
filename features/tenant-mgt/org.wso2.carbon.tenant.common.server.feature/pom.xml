@@ -157,6 +157,7 @@
                                 <bundleDef>org.json.wso2:json</bundleDef>
                                 <bundleDef>org.wso2.carbon.multitenancy:org.wso2.carbon.tenant.mgt:${carbon.multitenancy.version}</bundleDef>
                                 <bundleDef>kaptcha.wso2:kaptcha</bundleDef>
+                                <bundleDef>org.wso2.orbit.org.bouncycastle:bcpkix-jdk15on</bundleDef>
                                 <bundleDef>org.wso2.carbon.multitenancy:org.wso2.carbon.tenant.keystore.mgt</bundleDef>
                                 <bundleDef>org.wso2.carbon.multitenancy:org.wso2.carbon.tenant.mgt.core:${carbon.multitenancy.version}
                                 </bundleDef>

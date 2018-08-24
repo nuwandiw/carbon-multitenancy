@@ -98,12 +98,16 @@
             <artifactId>org.wso2.carbon.tenant.common</artifactId>
         </dependency>
         <dependency>
-            <groupId>bouncycastle</groupId>
-            <artifactId>bcprov-jdk15</artifactId>
+            <groupId>org.wso2.orbit.org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
         </dependency>
         <dependency>
             <groupId>org.wso2.carbon.identity</groupId>
             <artifactId>org.wso2.carbon.security.mgt</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.wso2.orbit.org.bouncycastle</groupId>
+            <artifactId>bcpkix-jdk15on</artifactId>
         </dependency>
     </dependencies>
 
